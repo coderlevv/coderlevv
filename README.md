@@ -7,8 +7,7 @@ Lifelong learner at the intersection of **medicine, statistics, and computer sci
 
 🎓 **Background**
 After medicine and research, I moved to where both meet society — working with data, health outcomes, and medicine access.  
-**coderlevv** is the part of me that needs a place to act out —
-to build things, understand systems, and bring ideas to life through code.
+**coderlevv** is the part of me that uses this place to build things, understand systems, and bring ideas to life through code.
 
 ---
 
