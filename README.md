@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi, I'm coderlevv 👋  
+> “Programming brings ideas to life.”
 
-<!--
-**coderlevv/coderlevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lifelong learner at the intersection of **medicine, statistics, and computer science**. I see programming as a bridge between understanding and creation. Computer algorithms are especially fascinating to me — where creativity, abstraction, programming, and data structures come together to solve a problem. It’s the purest expression of *programming bringing ideas to life.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Background**
+After medicine and research, I moved to where both meet society — working with data, health outcomes, and medicine access.  
+**coderlevv** is the part of me that needs a place to act out —
+to build things, understand systems, and bring ideas to life through code.
+
+---
+
+🧭 **What drives me**
+- Curiosity and independence — the freedom to explore how things *really* work.   
+- Interest in how human behavior, systems, and ideas evolve — in code, in science, and in society.
+
+---
+
+🧰 **Tools I work with**
+- **Languages:** Python 🐍, R, SQL, JavaScript & TypeScript, Rust 
+- **Frameworks & Tools:** Django, Node.js
+- **Data Science:** pandas, NumPy, scikit-learn
+- **Platform:** Linux — open, creative, and community-driven; the perfect space for exploration and building things from the ground up.
+
+---
+
+🚀 **Current projects**
+- 🧩 [`lfshelper`](https://github.com/coderlevv/lfshelper) — (semi-)automates the Linux From Scratch build process
+- 🌿 Nutrition tracking Django web app
+- 🎄 Advent of Code — an annual practice in problem-solving  
+
+---
+
+🌱 **Currently exploring**
+- Full-stack app development with GraphQL and React
