@@ -17,17 +17,17 @@ After medicine and research, I moved to where both meet society — working with
 ---
 
 🧰 **Tools I work with**
+- **Platform:** Linux — open, creative, and community-driven; the perfect space for me to explore and build things from the ground up.
 - **Languages:** Python 🐍, R, SQL, JavaScript & TypeScript, Rust 
 - **Frameworks & Tools:** Django, Node.js
 - **Data Science:** pandas, NumPy, scikit-learn
-- **Platform:** Linux — open, creative, and community-driven; the perfect space for exploration and building things from the ground up.
 
 ---
 
 🚀 **Current projects**
 - 🧩 [`lfshelper`](https://github.com/coderlevv/lfshelper) — (semi-)automates the Linux From Scratch build process
-- 🌿 Nutrition tracking Django web app
-- 🎄 Advent of Code — an annual practice in problem-solving  
+- 🌿 [`levvtrack`](https://github.com/coderlevv/levvtrack) — A basic Django-based web application for food tracking
+- 🎄 [`Advent of Code`](https://github.com/coderlevv/advent-of-code) — an annual practice in problem-solving  
 
 ---
 
