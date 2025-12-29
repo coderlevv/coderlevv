@@ -6,7 +6,7 @@ Lifelong learner at the intersection of **medicine, statistics, and computer sci
 ---
 
 🎓 **Background**
-After medicine and research, I moved to where both meet society — working with data, health outcomes, and medicine access. **coderlevv** is the part of me that uses this place to build things, understand systems, and bring ideas to life through code.
+After medicine and research, I moved to where both meet society — working with data, health outcomes, and medicine access.
 
 ---
 
@@ -17,7 +17,7 @@ After medicine and research, I moved to where both meet society — working with
 ---
 
 🧰 **Tools I work with**
-- **Platform:** Linux — open, creative, and community-driven; the perfect space for me to explore and build things from the ground up.
+- **Platform:** Linux — The perfect space for me to explore and build things from the ground up.
 - **Languages:** Python 🐍, R, SQL, JavaScript & TypeScript, Rust 
 - **Frameworks & Tools:** Django, Node.js
 - **Data Science:** pandas, NumPy, scikit-learn
