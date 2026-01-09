@@ -26,7 +26,7 @@ After medicine and research, I moved to where both meet society — working with
 
 🚀 **Current projects**
 - 🧩 [`lfshelper`](https://github.com/coderlevv/lfshelper) — (semi-)automates the Linux From Scratch build process
-- 🌿 [`levvtrack`](https://github.com/coderlevv/levvtrack) — A basic Django-based web application for food tracking
+- 🌿 [`levvtrack`](https://github.com/coderlevv/levvtrack) — A Django-based web application for food tracking
 - 🎄 [`Advent of Code`](https://github.com/coderlevv/advent-of-code) — an annual practice in problem-solving  
 
 ---
